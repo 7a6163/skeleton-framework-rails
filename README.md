@@ -1,6 +1,7 @@
 # Skeleton-Framework-Rails
 
 Skeleton-Framework-Rails is a rubygem for Rails.
+It provides the [Skeleton framework](https://github.com/skeleton-framework/skeleton-framework) stylesheets into Rails
 
 ## Installation
 
