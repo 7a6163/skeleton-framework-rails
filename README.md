@@ -1,5 +1,7 @@
 # Skeleton-Framework-Rails
 
+[![Build Status](https://travis-ci.org/mymengyu/skeleton-framework-rails.svg?branch=master)](https://travis-ci.org/mymengyu/skeleton-framework-rails)
+
 Skeleton-Framework-Rails is a rubygem for Rails.
 It provides the [Skeleton framework](https://github.com/skeleton-framework/skeleton-framework) stylesheets into Rails
 
