@@ -1,5 +1,6 @@
 # Skeleton-Framework-Rails
 
+[![Gem Version](https://badge.fury.io/rb/skeleton-framework-rails.svg)](https://badge.fury.io/rb/skeleton-framework-rails)
 [![Build Status](https://travis-ci.org/mymengyu/skeleton-framework-rails.svg?branch=master)](https://travis-ci.org/mymengyu/skeleton-framework-rails)
 
 Skeleton-Framework-Rails is a rubygem for Rails.
