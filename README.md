@@ -1,10 +1,8 @@
 # Skeleton-Framework-Rails
 
-[![Gem Version](https://badge.fury.io/rb/skeleton-framework-rails.svg)](https://badge.fury.io/rb/skeleton-framework-rails)
-[![Build Status](https://travis-ci.org/mymengyu/skeleton-framework-rails.svg?branch=master)](https://travis-ci.org/mymengyu/skeleton-framework-rails)
-
 Skeleton-Framework-Rails is a rubygem for Rails.
-It provides the [Skeleton framework](https://github.com/skeleton-framework/skeleton-framework) stylesheets into Rails
+
+It's based on [Skeleton Framework](https://skeleton-framework.github.io)
 
 ## Installation
 
@@ -29,4 +27,4 @@ Import Skeleton CSS Frame work into Stylesheet file
 *= require skeleton
 ```
 
-That's it and enjoy it
+That's it, have fun.

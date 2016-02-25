@@ -1,4 +1,5 @@
 require "skeleton/framework/rails/version"
+require "rails"
 
 module Skeleton
   module Framework
